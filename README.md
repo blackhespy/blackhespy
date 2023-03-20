@@ -1,5 +1,5 @@
 <h1 align="left">Hi There!👋 </h1>
-<h3 align="center">Welcome to my page! I'm Christian from Indonesia and currently seeking for job about Data Analyst, Data Scientist, or Data Engineering</h3>
+Welcome to my page! I'm Christian from Indonesia and currently seeking for job about Data Analyst, Data Scientist, or Data Engineering
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackhespy&label=Profile%20views&color=e5a3a3&style=flat" alt="blackhespy" /> </p>
 
