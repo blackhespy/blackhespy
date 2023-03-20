@@ -11,7 +11,7 @@ Welcome to my page! I'm Christian from Indonesia and currently seeking for job a
 <a href="https://linkedin.com/in//christian-jauhari-1b723122a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/christian-jauhari-1b723122a/" height="30" width="40" /></a>
 <a href="https://kaggle.com/blackhespy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="blackhespy" height="30" width="40" /></a>
 <a href="https://instagram.com/christianjhri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="christianjhri" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/blackhespy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="blackhespy" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ceje1028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="blackhespy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
