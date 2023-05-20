@@ -1,7 +1,7 @@
 <h1 align="left">Hi There!👋 </h1>
 <meta charset="UTF-8">
-Wel>come to my page! I'm Christian from Indonesia and currently seeking for job about Data Analyst, Data Scientist, or Data Engineering
-</p
+Welcome to my page! I'm Christian from Indonesia and currently seeking for job about Data Analyst, Data Scientist, or Data Engineering
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
